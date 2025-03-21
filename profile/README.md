@@ -14,4 +14,4 @@ Olá! Somos a **Fluxion Sistemas**, uma empresa especializada em **automatizaç�
 - **Equipe especializada** em automação e desenvolvimento web.
 - **Compromisso com a qualidade** e com o sucesso do seu projeto.
 
-Entre em contato comigo para saber mais sobre como podemos ajudar a transformar seu negócio!
+Entre em contato conosco para saber mais sobre como podemos ajudar a transformar seu negócio!

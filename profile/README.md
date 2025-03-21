@@ -15,7 +15,3 @@ Olá! Somos a **Fluxion Sistemas**, uma empresa especializada em **automatizaç�
 - **Compromisso com a qualidade** e com o sucesso do seu projeto.
 
 Entre em contato comigo para saber mais sobre como podemos ajudar a transformar seu negócio!
-
----
-
-Esse README é direto e ideal para um repositório no GitHub. Caso precise de mais algum ajuste, é só avisar!
